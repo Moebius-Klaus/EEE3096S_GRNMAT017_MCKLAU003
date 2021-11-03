@@ -1,6 +1,6 @@
 //include additional files
 `include "alu.v"
-`include "RegMem.v"
+`include "regmem.v"
 `include "CU.v"
 
 `timescale 1ns / 1ps
